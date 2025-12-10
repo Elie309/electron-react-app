@@ -1,4 +1,4 @@
-# Billing Electricity Manager ⚡
+# Electron React App ⚡
 
 A modern Electron desktop app scaffolded with Vite, React, TypeScript and Tailwind CSS — configured for fast development, linting, and consistent formatting.
 
